@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-s3-project",
+  "version": "1.0.0",
+  "description": "A Node.js project to retrieve files from the abit-system-core-api-access-logs-bucket S3 bucket.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1234.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
